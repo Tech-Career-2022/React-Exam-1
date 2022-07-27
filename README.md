@@ -18,6 +18,6 @@ Create an app to fetch data from a JSON API. Use this data to render on the page
 In addition, use react-bootstrap/reactstrap in order to display the data more visually.
 Bonus: create it using async await.
 
-Create this birthday list like this design - [!design]["https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042"] following the data.json
+Create this birthday list like this design - "https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042"] following the data.json
 
 
