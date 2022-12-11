@@ -20,5 +20,5 @@ In addition, use react-bootstrap/reactstrap in order to display the data more vi
 
 3) Create this Markup app - ['Example'] ["https://markdown-editor-mindninjax.netlify.app/"] following the ["React Markup"] - "["https://github.com/remarkjs/react-markdown"] also you can read about how to use Markup commands here: https://www.markdownguide.org/cheat-sheet/ -
 
-4) Create this mockup using class component and functional component - https://oceanic-sense.surge.sh/ 
+4) Create this mockup using functional component - https://oceanic-sense.surge.sh/ 
 
